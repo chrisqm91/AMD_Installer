@@ -99,7 +99,7 @@ case $opt in
         version="19.50-967956-ubuntu-18.04";break
     ;;
 	"20.50-1098277-ubuntu-20.04")
-	wget http://download.hiveos.farm/drivers/amdgpu-pro-19.50-967956-ubuntu-18.04.tar.xz
+	wget http://drivers.amd.com/drivers/linux/amdgpu-pro-20.50-1232447-ubuntu-20.04.tar.xz
         version="20.50-1232447-ubuntu-20.04";break
 	;;
 	"Quit")
