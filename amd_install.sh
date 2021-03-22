@@ -99,11 +99,11 @@ case $opt in
         version="19.50-967956-ubuntu-18.04";break
     ;;
 	"20.50-1232446-ubuntu-18.04")
-	wget http://get.station307.com/Digr0P7b9Xo/amdgpu-pro-20.50-1232446-ubuntu-18.04.tar.xz
+	wget https://get.station307.com/czZ1W8rAR1z/amdgpu-pro-20.50-1234663-ubuntu-18.04.tar.xz
         version="20.50-1232446-ubuntu-18.04";break
     ;;
 	"20.50-1232447-ubuntu-20.04")
-	wget https://get.station307.com/urdE8aKiTDc/amdgpu-pro-20.50-1232447-ubuntu-20.04.tar.xz
+	wget https://get.station307.com/D3Ypr1VHcl9/amdgpu-pro-20.50-1232447-ubuntu-20.04.tar.xz
         version="20.50-1232447-ubuntu-20.04";break
 	;;
 	"Quit")
